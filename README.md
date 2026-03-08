@@ -13,8 +13,7 @@ As Geospatial Artificial Intelligence (GeoAI) evolves, Graph Neural Networks (GN
 ## Who is this for?
 * **Target Audience:** GIS analysts, spatial data scientists, and Python developers expanding their GeoAI and network modelling skills.
 
-* **Prerequisites:** Basic proficiency in Python (especially GeoPandas) and GIS concepts. Basic knowledge of machine learning and neural networks is highly recommended (e.g., supervised vs. unsupervised learning, loss functions, activation functions, backpropagation). If you are not familiar with those topics, I recommend watching [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)’s tutorial videos (Chapter 1-4) in advance. No prior network science (NetworkX) or GNN (PyTorch Geometric) skills required.
-
+* **Prerequisites:** Basic proficiency in Python (especially GeoPandas) and GIS concepts. Basic knowledge of machine learning and neural networks (e.g., supervised vs. unsupervised learning, loss functions, activation functions, backpropagation). If you are not familiar with those topics of neural networks, I recommend watching [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)’s tutorial videos (Chapter 1-4) in advance. No prior network science (NetworkX) or GNN (PyTorch Geometric) skills required.
 
 ## Contents
 
