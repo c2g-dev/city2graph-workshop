@@ -1,6 +1,6 @@
 # GeoAI in Practice: From Geospatial Data to Graph Neural Networks with City2Graph
 
-![Workshop Thumbnail](img/workshop_thumbnail.jpg)
+<p align="center"><img src="img/workshop_thumbnail.jpg" width="600" alt="Workshop Thumbnail"></p>
 
 This workshop introduces Graph Neural Networks (GNNs) for geospatial practitioners. Using open-source Python tools including [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/) and [City2Graph](https://city2graph.net/), participants will learn how to transform urban geospatial data into network structures and apply GNNs to model complex spatial relations.
 
@@ -12,7 +12,8 @@ As Geospatial Artificial Intelligence (GeoAI) evolves, Graph Neural Networks (GN
 
 ## Who is this for?
 * **Target Audience:** GIS analysts, spatial data scientists, and Python developers expanding their GeoAI and network modelling skills.
-* **Prerequisites:** Basic proficiency in Python (especially GeoPandas) and GIS concepts. Basic knowledge of neural networks is highly recommended (e.g., activation functions, backpropagation, loss functions, etc.). No prior network science (NetworkX) or GNN (PyTorch Geometric) skills required.
+
+* **Prerequisites:** Basic proficiency in Python (especially GeoPandas) and GIS concepts. Basic knowledge of machine learning and neural networks is highly recommended (e.g., supervised vs. unsupervised learning, loss functions, activation functions, backpropagation). If you are not familiar with those topics, I recommend watching [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)’s tutorial videos (Chapter 1-4) in advance. No prior network science (NetworkX) or GNN (PyTorch Geometric) skills required.
 
 
 ## Contents
