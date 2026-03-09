@@ -10,8 +10,6 @@ This workshop introduces Graph Neural Networks (GNNs) for geospatial practitione
 ## Description
 As Geospatial Artificial Intelligence (GeoAI) evolves, Graph Neural Networks (GNNs) have emerged as a promising approach for predicting and understanding complex spatial relationships. This workshop provides a practical overview of the full GNN pipeline, from processing raw spatial data to training models, using an open-source Python stack: GeoPandas, NetworkX, PyTorch Geometric, OSMnx, and City2Graph.
 
-## Contents
-
 **Part 1: Graph Data Engineering, Spatial Network Analysis, and GNNs** (Notebook WIP)
 
 Learn to construct and analyse spatial networks using GeoPandas and NetworkX. We will demonstrate how to convert standard geospatial data (e.g., OpenStreetMap, GTFS, etc.) into unified graph structures with OSMnx and City2Graph. We will then explore key GNN architectures and transition from spatial graphs into tensor formats using PyTorch Geometric and City2Graph.
