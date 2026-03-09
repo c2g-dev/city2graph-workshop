@@ -19,8 +19,12 @@ As Geospatial Artificial Intelligence (GeoAI) evolves, Graph Neural Networks (GN
 
 **Part 1: Graph Data Engineering, Spatial Network Analysis, and GNNs**
 
+(Notebook WIP)
+
 Learn to construct and analyse spatial networks using GeoPandas and NetworkX. We will demonstrate how to convert standard geospatial data (e.g., OpenStreetMap, GTFS, etc.) into unified graph structures with OSMnx and City2Graph. We will then explore key GNN architectures and transition from spatial graphs into tensor formats using PyTorch Geometric and City2Graph.
 
 **Part 2: Build Your Own GeoAI Pipeline**
+
+[Jupyter Notebook](notebooks/part2_geoai.ipynb)
 
 Put your skills into practice. Choose a city, extract its street network from OpenStreetMap or Overture Maps (optional), and train a Graph Autoencoder (GAE) for an unsupervised spatial clustering task. We will conclude by discussing how the GNN pipeline could be adopted for your business / research workflows.
