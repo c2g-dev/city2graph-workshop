@@ -7,8 +7,7 @@ This workshop introduces Graph Neural Networks (GNNs) for geospatial practitione
 ## News
 * **2026-03-08:** Repository updated for the upcoming workshop in **FOSS4G 2026 Hiroshima**.
 
-## Description
-As Geospatial Artificial Intelligence (GeoAI) evolves, Graph Neural Networks (GNNs) have emerged as a promising approach for predicting and understanding complex spatial relationships. This workshop provides a practical overview of the full GNN pipeline, from processing raw spatial data to training models, using an open-source Python stack: GeoPandas, NetworkX, PyTorch Geometric, OSMnx, and City2Graph.
+## Contents
 
 **Part 1: Graph Data Engineering, Spatial Network Analysis, and GNNs** (Notebook WIP)
 
