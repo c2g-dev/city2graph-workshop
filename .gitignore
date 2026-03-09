@@ -24,8 +24,8 @@ cache/
 
 # Generated outputs
 clustering_result.png
-social_preview_city2graph.png
 unmapped_categories.txt
+unmapped_land_use_categories.txt
 land_use.geojson
 place.geojson
 interactive_map.html
