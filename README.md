@@ -14,7 +14,7 @@ Put your skills into practice. Choose a city, extract its street network from Op
 
 Google Colab is also available:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1MKnc8nG0oGKTZIy_ZTQLTsUl9vez94Jz/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MKnc8nG0oGKTZIy_ZTQLTsUl9vez94Jz)
 
 ## Quickstart
 
