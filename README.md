@@ -12,7 +12,13 @@ Learn to construct and analyse spatial networks using GeoPandas and NetworkX. We
 
 Put your skills into practice. Choose a city, extract its street network from OpenStreetMap or Overture Maps (optional), and train a Graph Autoencoder (GAE) for an unsupervised spatial clustering task. We will conclude by discussing how the GNN pipeline could be adopted for your business / research workflows.
 
+Google Colab is also available:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1MKnc8nG0oGKTZIy_ZTQLTsUl9vez94Jz/view?usp=sharing)
+
 ## Quickstart
+
+### Option 1: Local Environment
 
 This repository uses [uv](https://docs.astral.sh/uv/) for environment and dependency management.
 
@@ -40,6 +46,10 @@ jupyter notebook
 III. Open [notebooks/part2_geoai.ipynb](notebooks/part2_geoai.ipynb) in Jupyter Notebook.
 
 Python `>=3.11,<3.14` is required. If `uv` is not installed yet, see the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/).
+
+### Option 2: Google Colab
+
+If you are using Google Colab, you need to have a Google account. The Colab link provided above is in viewer mode, so please save a copy to your own Google Drive (`File > Save a copy in Drive`) before running the notebook.
 
 ## Who is this for?
 * **Target Audience:** GIS analysts, spatial data scientists, and Python developers expanding their GeoAI and network modelling skills.
