@@ -4,6 +4,13 @@
 
 This workshop introduces Graph Neural Networks (GNNs) for geospatial practitioners. Using open-source Python tools including [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/) and [City2Graph](https://city2graph.net/), participants will learn how to transform urban geospatial data into network structures and apply GNNs to model complex spatial relations.
 
+> ⚠️ **Community voting for FOSS4G 2026 is open until Apr. 3.**
+>
+> | Track | Proposal | Vote |
+> | --- | --- | --- |
+> | General track | City2Graph: Open Source Python Library for GeoAI with Graph Neural Networks | [Vote here](https://2026.foss4g.org/en/call-for-papers/general-sessions/) |
+> | Workshop | GeoAI in Practice: From Geospatial Data to Graph Neural Networks with City2Graph | [Vote here](https://2026.foss4g.org/en/call-for-papers/workshops/) |
+
 **Part 1: Graph Data Engineering, Spatial Network Analysis, and GNNs** (Notebook WIP)
 
 Learn to construct and analyse spatial networks using GeoPandas and NetworkX. We will demonstrate how to convert standard geospatial data (e.g., OpenStreetMap, GTFS, etc.) into unified graph structures with OSMnx and City2Graph. We will then explore key GNN architectures and transition from spatial graphs into tensor formats using PyTorch Geometric and City2Graph.
