@@ -11,7 +11,7 @@
 
 ## Content
 
-This workshop introduces Graph Neural Networks (GNNs) for geospatial practitioners. Using open-source Python tools including [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/) and [City2Graph](https://city2graph.net/), participants will learn how to transform urban geospatial data into network structures and apply GNNs to model complex spatial relations.
+This workshop introduces Graph Neural Networks (GNNs) for geospatial practitioners. Using open-source Python tools including PyTorch Geometric and **[City2Graph](https://github.com/c2g-dev/city2graph)**, participants will learn how to transform urban geospatial data into network structures and apply GNNs to model complex spatial relations.
 
 **Part 1: Graph Data Engineering, Spatial Network Analysis, and GNNs** (Notebook WIP)
 
