@@ -51,3 +51,10 @@ img/*
 src/*
 !src/build_graph.py
 !src/poi_and_land_uses.py
+
+# Explicitly ignore generated workshop artifacts
+/part1_agenda.md
+/src/create_thumbnail.py
+/src/build_graph.py
+/notebooks/city2graph_overture.ipynb
+/notebooks/cities_comparison.png
