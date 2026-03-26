@@ -29,3 +29,25 @@ unmapped_land_use_categories.txt
 land_use.geojson
 place.geojson
 interactive_map.html
+
+# Restrict tracked files to only the workshop deliverables below
+*
+
+# Keep this file
+!.gitignore
+
+# Keep selected workshop notebook
+!notebooks/
+notebooks/*
+!notebooks/part2_geoai.ipynb
+
+# Keep selected image
+!img/
+img/*
+!img/workshop_thumbnail.jpg
+
+# Keep selected source files
+!src/
+src/*
+!src/build_graph.py
+!src/poi_and_land_uses.py
