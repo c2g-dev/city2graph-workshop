@@ -1,0 +1,32 @@
+[project]
+name = "city2graph-workshop"
+version = "0.1.0"
+description = "Hands-On GeoAI: From Geospatial Data to Graph Neural Networks with City2Graph"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "city2graph",
+    "contextily>=1.7.0",
+    "folium>=0.20.0",
+    "geopandas",
+    "h3>=4.4.2",
+    "hdbscan",
+    "jupyterlab",
+    "mapclassify>=2.10.0",
+    "matplotlib>=3.10.8",
+    "networkx",
+    "numpy>=2.4.2",
+    "osmnx",
+    "overturemaps>=0.19.0",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+    "shapely>=2.1.2",
+    "torch",
+    "torch-geometric",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+    "notebook>=7.5.4",
+]
